@@ -1,0 +1,10 @@
+# Ignorar arquivos de configuração locais
+*.pyc
+__pycache__/
+
+# Ignorar arquivos de ambiente virtual
+venv/
+.env/
+
+# Ignorar arquivos de chave/API
+src/azure_config.py
